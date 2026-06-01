@@ -1,0 +1,26 @@
+[
+  {
+    "id": "97a90851-5e29-46f2-987a-466edc1355dd",
+    "text": "super",
+    "user": "nandhini",
+    "city": "Hyderabad",
+    "likes": 3,
+    "dislikes": 1
+  },
+  {
+    "id": "b68a6286-32b8-4678-bd1e-d9710a7efca4",
+    "text": "good",
+    "user": "nandhini",
+    "city": "Hyderabad",
+    "likes": 13,
+    "dislikes": 0
+  },
+  {
+    "id": "746afc2d-827b-4cd8-8ac4-4f382edc0a8f",
+    "text": "bad",
+    "user": "nandhini",
+    "city": "Hyderabad",
+    "likes": 1,
+    "dislikes": 1
+  }
+]

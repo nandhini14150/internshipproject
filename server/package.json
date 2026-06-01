@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "fs-extra": "^11.3.5",
+    "nodemailer": "^8.0.10",
+    "nodemon": "^3.1.14",
+    "razorpay": "^2.9.6",
+    "socket.io": "^4.8.3",
+    "twilio": "^6.0.2",
+    "uuid": "^14.0.0"
+  }
+}
